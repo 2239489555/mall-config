@@ -1,2 +1,4 @@
 # mall-config
-mall配置
+
+#### 介绍
+mall 项目配置存储
